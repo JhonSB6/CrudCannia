@@ -1,0 +1,18 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+## ASP.NET
+appsettings.Development.json
+
+## VS
+.vs/
+.vscode/
+
+## OS
+Thumbs.db
+.DS_Store
